@@ -6,11 +6,9 @@
 
 # Research engineer in computational linguistic
 
-*Reseach engineer at CREST/[CSS@ISP](https://www.css.cnrs.fr/team/). Between social sciences and digital tools, my activity focus on data analysis, computational social sciences and scientific software.*
+*Reseach engineer at CNRS. Between linguistic and digital tools, my activity focus on data analysis, computational linguistic and scientific software.*
 
-Currently, developping and maintaing [Active Tigger in Python](https://github.com/emilienschultz/activetigger/) @ CREST with É. Ollion & J. Boaelaert
-
-Ex. GEMASS - CEPED - SESSTIM - médialab
+Currently, developping and maintaing a linguistic database for Dramaref Project.
 
 Contact me : *amaniatlili [AT] yahoo.fr*.
 
