@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="/ameni.png">
+  <img width="200" src="/ameni.jpg">
 </p>
 
 <!-- DOC for Jekyll https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll -->
