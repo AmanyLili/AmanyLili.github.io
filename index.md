@@ -12,7 +12,7 @@ Currently, developping and maintaing [Active Tigger in Python](https://github.co
 
 Ex. GEMASS - CEPED - SESSTIM - médialab
 
-Contact me : *emilien.schultz [AT] ensae.fr*.
+Contact me : *amaniatlili [AT] yahoo.fr*.
 
 # Parcours professionnel
 
