@@ -35,13 +35,7 @@ Contact me : *amaniatlili [AT] yahoo.fr*.
 
 # Publications
 
-N'hésitez pas à me contacter pour accéder à une publication dont l'accès n'est pas directement en ligne.
 
-## Livre
-
-* avec Matthias Bussonnier, [*Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes](http://pyshs.fr).
-
-La bibliothèque Python associée pour le traitement statistique [pyshs](https://github.com/emilienschultz/pyshs-bib)
 
 ## Articles grand public
 
@@ -50,10 +44,6 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 * [*Les clefs pour comprendre ces graphes qui ont fleuri lors l’épidémie de Covid-19*, The Conversation, 2021](https://theconversation.com/les-clefs-pour-comprendre-ces-graphes-qui-ont-fleuri-lors-lepidemie-de-covid-19-165185)
 
 
-## Coordination de numéros thématiques
-
-* [avec Solenn Carof et Thibaud Pombet, numéro thématique de la revue *Anthropologie et Santé* « Systèmes de soin, catégorisations et expériences : quelle(s)spécificité(s) des cancers de l’enfant ? ».](https://journals.openedition.org/anthropologiesante/10252)
-* [Numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'Office Parlementaire d'Evaluation des Choix Scientifiques et Technologiques, 2019](https://journals.openedition.org/hrc/3078).
 
 ## Articles avec comité de lecture
 
@@ -112,28 +102,6 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 * « Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
 * « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
 
-## Notes critiques et compte-rendus de lecture
-
-Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du Travail, Lectures.org, Quaderni, Histoire de la Recherche Contemporaine, Zilsel...
-
-* *Les valeurs de la science. Enquête sur les réformes de l’évaluation de la recherche en France.* de Clémentine Gozlan, *Revue Française de Sociologie*, 2021.
-* [avec Johan Giry, « Ceci n’est pas une démonstration. Ou pourquoi la vie sociale se satisfait mal de la métaphore théâtrale et de l’axiomatique stratégiste. À propos de Claude Rosental, La société de démonstration », Zilzel, 2021.](https://www.cairn.info/revue-zilsel-2021-2-page-487.htm).
-* « De la science à l’industrie. Cellules souches embryonnaires et biotechnologies en France » de Philippe Brunet, *Revue française de sociologie*, 2019
-* « De la barrière et du bulldozer, ou comment la pollution industrielle ne s’arrête pas à coup de seuil de toxicité. A propos de 'Gouverner un monde toxique' de Soraya Boudia et Nathalie Jas », *Zilsel*, 2019
-* « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », *Zilsel*, 2018
-* *Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations)*, Richard Whitley et Jochen Gläser (eds.), *Revue française de sociologie*, 2016
-* « L’univers des mathématiciens : L’ethos professionnel des plus rigoureux des scientifiques » de Bernard Zarca, *Revue Française de Sociologie*, 2014-2
-* « Des patrons aux managers » de Séverine Louvel, *Revue Française de Sociologie*, 2012
-
-## Posters récents
-
-* avec Axel Morin, ..., Étienne Ollion, [« Active Tigger. Intuitive and collaborative text annotation tool for open science research », AI and Society – Exploring Inequality in the Digital Age, May 2025, Mannheim, Germany. 2025](https://cnrs.hal.science/hal-05097192)
-* avec Capucine Baldini, Sylvain Besle et al., [« Access to early clinical trials in older patients in France: an analysis of the EGALICAN 2 study »](https://www.geriatriconcology.net/article/S1879-4068(19)31300-1/fulltext), *International Society of Geriatric Oncology*, Genève, 2019
-
-## Workingpaper
-
-* [« Du laboratoire à Jupyter : La trajectoire d'un instrument logiciel libre de la science ouverte »](https://uphf.hal.science/U1252/hal-04316428v1)
-* [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf) 
 
 ## Autres publications
 
@@ -246,13 +214,6 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * Présentation du numéro sur l'OPECST au Sénat [Trente ans d’évaluations des choix scientifiques et technologiques au Parlement](http://videos.senat.fr/video.1515492_5e39950711719.30-ans-d-evaluations-des-choix-scientifiques-et-technologiques-au-parlement)
 * Audition publique de l'OPECST [Les enjeux du conseil scientifique aux institutions politiques](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/office-parlementaire-d-evaluation-des-choix-scientifiques-et-technologiques/secretariat/a-la-une/les-enjeux-du-conseil-scientifique-aux-institutions-politiques), Assemblée Nationale, 2019
 * Participation à la table-ronde « Accéder à l'innovation : un plus pour nous soigner ? » organisée par le SIRIC Brio, Bordeaux, 2019
-
-# Contrats de consultance
-
-* Développement de preuve de concepts d'usage du machine learning pour HUMA-NUM Lab avec la coopérative *Datactivist*, 2022.
-* Réanalyse d'enquête dans une perspective de science ouverte, *Cabinet Inno3*, 2022.
-* Analyse de données de CommonData, 2016
-* Passation d'enquête par questionnaire et développement d'interface Conseil Régional Val-de-Marne, 2014.
 
 
 # Compétences numériques / Digital Skills
