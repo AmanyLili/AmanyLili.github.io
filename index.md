@@ -4,7 +4,7 @@
 
 <!-- DOC for Jekyll https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll -->
 
-# Research engineer in computational social sciences
+# Research engineer in computational linguistic
 
 *Reseach engineer at CREST/[CSS@ISP](https://www.css.cnrs.fr/team/). Between social sciences and digital tools, my activity focus on data analysis, computational social sciences and scientific software.*
 
