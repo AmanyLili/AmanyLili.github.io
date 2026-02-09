@@ -22,14 +22,17 @@ Contact : *ameni.tlili [AT] cnrs.fr*
 
 ---
 
-# Parcours professionnel
-* __2025-2026__ : Ingénieure de Recherche en Humanités Numériques – CNRS et Université Côte d'Azur, Nice, France.
-* __2022-2024__ : Professeure de linguistique – Université de la Princesse Nourah Bint Abderrahmen, Riyadh, Arabie Saoudite.
-* __2021-2022__ : Chercheuse post-doctorale – Projet Lex:GaMe, CNRS et ENS de Lyon, France.
-* __2021__ : Professeure vacataire de linguistique – Université de Rouen Normandie, Rouen, France.
-* __2018-2021__ : Assistante pédagogique – Collège Maximilien De Robespierre, Rouen, France.
-* __2014-2017__ : Professeure titulaire au secondaire – Tunis, Tunisie.
+# Expériences professionnelles
 
+* **2022 – 2024** | **Professeure de linguistique** *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite)*
+
+* **2021 – 2022** | **Chercheuse post-doctorale** *Projet Lex:GaMe – CNRS et École Normale Supérieure (ENS) de Lyon, France*
+
+* **2021** | **Professeure vacataire de linguistique** *Université de Rouen Normandie, France*
+
+* **2018 – 2021** | **Assistante pédagogique** *Collège Maximilien De Robespierre, Rouen, France*
+
+* **2014 – 2017** | **Professeure titulaire au secondaire** *Langue et littérature françaises – Collèges et lycées, Tunis, Tunisie*
 ---
 
 # Formation
