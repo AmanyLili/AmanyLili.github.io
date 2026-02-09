@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="/a.jpg" alt="Ameni TLILI">
+  <img width="200" src="/ameni.jpg" alt="Ameni TLILI">
 </p>
 
 # Ingénieure de recherche en édition de corpus numériques
