@@ -89,7 +89,8 @@
 
 * **2022 – 2024** | **Coordinatrice de qualité** (Programme de français)  
   *Université de la Princesse Nourah Bint Abderrahmen, Riyadh*
-* **2022 – 2024** | **Responsable du Blackboard et de l'enseignement numérique** *Université de la Princesse Nourah Bint Abderrahmen, Riyadh*
+* **2022 – 2024** | **Responsable du Blackboard et de l'enseignement numérique**
+  *Université de la Princesse Nourah Bint Abderrahmen, Riyadh*
 * **2022 – 2024** | **Responsable de la Newsletter mensuelle** *Faculté de langue, Université de la Princesse Nourah Bint Abderrahmen, Riyadh*
 
 ---
