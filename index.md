@@ -24,27 +24,29 @@ Contact : *ameni.tlili [AT] cnrs.fr*
 
 # Expériences professionnelles
 
-* **2022 – 2024** | **Professeure de linguistique** *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite)*
+* **2022 – 2024** | **Professeure de linguistique** *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite).
 
-* **2021 – 2022** | **Chercheuse post-doctorale** *Projet Lex:GaMe – CNRS et École Normale Supérieure (ENS) de Lyon, France*
+* **2021 – 2022** | **Chercheuse post-doctorale** *Projet Lex:GaMe – CNRS et École Normale Supérieure (ENS) de Lyon, France.
 
-* **2021** | **Professeure vacataire de linguistique** *Université de Rouen Normandie, France*
+* **2021** | **Professeure vacataire de linguistique** *Université de Rouen Normandie, France.
 
-* **2018 – 2021** | **Assistante pédagogique** *Collège Maximilien De Robespierre, Rouen, France*
+* **2018 – 2021** | **Assistante pédagogique** *Collège Maximilien De Robespierre, Rouen, France.
 
-* **2014 – 2017** | **Professeure titulaire au secondaire** *Langue et littérature françaises – Collèges et lycées, Tunis, Tunisie*
+* **2014 – 2017** | **Professeure titulaire au secondaire** *Langue et littérature françaises – Collèges et lycées, Tunis, Tunisie.
+  
 ---
 
 
 # Formation
 
-* **2017 – 2021** | **Doctorat en Sciences Du Langage** *Université de Rouen Normandie, France*
+* **2017 – 2021** | **Doctorat en Sciences Du Langage** *Université de Rouen Normandie, France.
 
-* **2011 – 2014** | **Master en Littérature et linguistique françaises** *Université de Tunis El Manar, Tunisie*
+* **2011 – 2014** | **Master en Littérature et linguistique françaises** *Université de Tunis El Manar, Tunisie.
 
-* **2007 – 2010** | **Licence en langue, civilisation et littérature françaises** *Université de Tunis El Manar, Tunisie*
+* **2007 – 2010** | **Licence en langue, civilisation et littérature françaises** *Université de Tunis El Manar, Tunisie.
 
-* **2006** | **Baccalauréat en Mathématiques** *Lycée Carthage Byrsa, Tunis, Tunisie*
+* **2006** | **Baccalauréat en Mathématiques** *Lycée Carthage Byrsa, Tunis, Tunisie.
+  
 ---
 
 # Compétences numériques
@@ -113,7 +115,7 @@ Contact : *ameni.tlili [AT] cnrs.fr*
 * **2022 – 2024** | **Coordinatrice de qualité** (Programme de français)  
   *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite)*
 
-* **2022 – 2024** | **Responsable du Blackboard et de l'enseignement numérique** *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite)*
+* **2022 – 2024** | **Responsable du Blackboard et de l'enseignement numérique** *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite).
 
 * **2022 – 2024** | **Responsable de la Newsletter mensuelle** (Écriture, conception et diffusion)  
   *Faculté de langue, Université de la Princesse Nourah Bint Abderrahmen, Riyadh*
@@ -121,4 +123,5 @@ Contact : *ameni.tlili [AT] cnrs.fr*
 # Liens et sites Web
 
 * 🎓 **Thèse de doctorat** | [Accéder au manuscrit sur theses.fr](https://www.theses.fr/2021NORMR004)
+  
 * 🏫 **Page institutionnelle** | [Profil chercheur – Laboratoire ICAR (ENS de Lyon)](http://www.icar.cnrs.fr/membre/atlili/)
