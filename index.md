@@ -25,15 +25,15 @@
 
 ## Expériences professionnelles
 
-**2022 – 2024** | **Professeure de linguistique** *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite)*
+**2022 – 2024**  **Professeure de linguistique** *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite)*
 
-**2021 – 2022** | **Chercheuse post-doctorale** *Projet Lex:GaMe – CNRS et École Normale Supérieure (ENS) de Lyon, France*
+**2021 – 2022**  **Chercheuse post-doctorale** *Projet Lex:GaMe – CNRS et École Normale Supérieure (ENS) de Lyon, France*
 
-**2021** | **Professeure vacataire de linguistique** *Université de Rouen Normandie, France*
+**2021** **Professeure vacataire de linguistique** *Université de Rouen Normandie, France*
 
-**2018 – 2021** | **Assistante pédagogique** *Collège Maximilien De Robespierre, Rouen, France*
+**2018 – 2021**  **Assistante pédagogique** *Collège Maximilien De Robespierre, Rouen, France*
 
-**2014 – 2017** | **Professeure titulaire au secondaire** *Langue et littérature françaises – Collèges et lycées, Tunis, Tunisie*
+**2014 – 2017**  **Professeure titulaire au secondaire** *Langue et littérature françaises – Collèges et lycées, Tunis, Tunisie*
 
 ---
 
