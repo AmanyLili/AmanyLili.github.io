@@ -35,14 +35,16 @@ Contact : *ameni.tlili [AT] cnrs.fr*
 * **2014 – 2017** | **Professeure titulaire au secondaire** *Langue et littérature françaises – Collèges et lycées, Tunis, Tunisie*
 ---
 
+
 # Formation
 
-* __2017-2021__ : **Doctorat en Sciences Du Langage** – Université de Rouen Normandie, Rouen, France.
-  > [Accéder à la thèse : Anomie et culture écrite. Enquête d'ethnographie linguistique sur le rapport entre la Révolution de 2011 en Tunisie et le dire-écrire des jeunes Tunisiens sur Facebook](https://www.theses.fr/2021NORMR004)
-* __2011-2014__ : **Master en Littérature et linguistique françaises** – Université de Tunis El Manar, Tunis, Tunisie.
-* __2007-2010__ : **Licence en langue, civilisation et littérature françaises** – Université de Tunis El Manar, Tunis, Tunisie.
-* __2006__ : **Baccalauréat en Mathématiques** – Lycée Carthage Byrsa, Tunis, Tunisie.
+* **2017 – 2021** | **Doctorat en Sciences Du Langage** *Université de Rouen Normandie, France*
 
+* **2011 – 2014** | **Master en Littérature et linguistique françaises** *Université de Tunis El Manar, Tunisie*
+
+* **2007 – 2010** | **Licence en langue, civilisation et littérature françaises** *Université de Tunis El Manar, Tunisie*
+
+* **2006** | **Baccalauréat en Mathématiques** *Lycée Carthage Byrsa, Tunis, Tunisie*
 ---
 
 # Compétences numériques
@@ -92,8 +94,17 @@ Contact : *ameni.tlili [AT] cnrs.fr*
     [🔗 Voir le programme](Https://slideum.com/doc/4655872/programmecolloque_cyberlougha)
 
 ---
+# Responsabilités administratives
 
-# Responsabilités & Liens
+* **2022 – 2024** | **Coordinatrice de qualité** (Programme de français)  
+  *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite)*
 
-* **Coordination** : Responsable qualité et enseignement numérique (Blackboard) à l'Université PNU (2022-2024).
-* **Profil ENS Lyon** : [Page chercheur ICAR](http://www.icar.cnrs.fr/membre/atlili/)
+* **2022 – 2024** | **Responsable du Blackboard et de l'enseignement numérique** *Université de la Princesse Nourah Bint Abderrahmen, Riyadh (Arabie Saoudite)*
+
+* **2022 – 2024** | **Responsable de la Newsletter mensuelle** (Écriture, conception et diffusion)  
+  *Faculté de langue, Université de la Princesse Nourah Bint Abderrahmen, Riyadh*
+
+# Liens et sites Web
+
+* 🎓 **Thèse de doctorat** | [Accéder au manuscrit sur theses.fr](https://www.theses.fr/2021NORMR004)
+* 🏫 **Page institutionnelle** | [Profil chercheur – Laboratoire ICAR (ENS de Lyon)](http://www.icar.cnrs.fr/membre/atlili/)
