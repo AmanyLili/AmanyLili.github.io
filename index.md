@@ -23,22 +23,22 @@ Contact : *ameni.tlili [AT] cnrs.fr*
 ---
 
 # Parcours professionnel
-
-* __2022-2024__ : Professeure de linguistique – Université de la Princesse Nourah Bint Abderrahmen, Riyadh.
-* __2021-2022__ : Chercheuse post-doctorale – Projet Lex:GaMe, CNRS et ENS de Lyon.
-* __2021__ : Professeure vacataire de linguistique – Université de Rouen Normandie.
-* __2018-2021__ : Assistante pédagogique – Collège Maximilien De Robespierre, Rouen.
+* __2025-2026__ : Ingénieure de Recherche en Humanités Numériques – CNRS et Université Côte d'Azur, Nice, France.
+* __2022-2024__ : Professeure de linguistique – Université de la Princesse Nourah Bint Abderrahmen, Riyadh, Arabie Saoudite.
+* __2021-2022__ : Chercheuse post-doctorale – Projet Lex:GaMe, CNRS et ENS de Lyon, France.
+* __2021__ : Professeure vacataire de linguistique – Université de Rouen Normandie, Rouen, France.
+* __2018-2021__ : Assistante pédagogique – Collège Maximilien De Robespierre, Rouen, France.
 * __2014-2017__ : Professeure titulaire au secondaire – Tunis, Tunisie.
 
 ---
 
 # Formation
 
-* __2017-2021__ : **Doctorat en Sciences Du Langage** – Université de Rouen Normandie.
-  > [Accéder à la thèse : Le français en Tunisie sur Facebook](https://www.theses.fr/2021NORMR004)
-* __2011-2014__ : **Master en Littérature et linguistique françaises** – Université de Tunis El Manar.
-* __2007-2010__ : **Licence en langue, civilisation et littérature françaises** – Université de Tunis El Manar.
-* __2006__ : **Baccalauréat en Mathématiques** – Lycée Carthage Byrsa, Tunis.
+* __2017-2021__ : **Doctorat en Sciences Du Langage** – Université de Rouen Normandie, Rouen, France.
+  > [Accéder à la thèse : Anomie et culture écrite. Enquête d'ethnographie linguistique sur le rapport entre la Révolution de 2011 en Tunisie et le dire-écrire des jeunes Tunisiens sur Facebook](https://www.theses.fr/2021NORMR004)
+* __2011-2014__ : **Master en Littérature et linguistique françaises** – Université de Tunis El Manar, Tunis, Tunisie.
+* __2007-2010__ : **Licence en langue, civilisation et littérature françaises** – Université de Tunis El Manar, Tunis, Tunisie.
+* __2006__ : **Baccalauréat en Mathématiques** – Lycée Carthage Byrsa, Tunis, Tunisie.
 
 ---
 
@@ -66,9 +66,27 @@ Contact : *ameni.tlili [AT] cnrs.fr*
 
 ## Communications internationales
 
-* **2024 (Tunis)** : "Construire et interroger le corpus numérique à l'ère de l'IA".
-* **2022 (Toulouse)** : "Penser la révolution tunisienne : de la mutilation de la langue à un parler nouveau".
-* **2018 (Agadir)** : "L’amazighité en Tunisie à l’ère du numérique".
+
+* **2024 (févr.-mars)** | Tunis, Tunisie  
+    *Colloque international : « Construire et interroger le corpus numérique à l'ère de l'intelligence artificielle »* **Communication :** « Analyse lexicométrique du dire-écrire des jeunes Tunisiens sur Facebook avant, pendant et après la Révolution de 2011 »  
+    [🔗 Voir le programme](https://padlet.com/colloquecorpusnumerique/construire-et-interroger-les-corpus-num-riques-l-re-de-l-int-f0ye70ltth11irnw/wish/2888001406)
+
+* **2022 (juin)** | Toulouse, France  
+    *Colloque international : « Penser la révolution tunisienne »* **Communication :** « La révolution tunisienne : de la mutilation de la langue légitime à l’enfantement d’un parler nouveau »  
+    [🔗 Voir le programme](https://iismm.hypotheses.org/67699)
+
+* **2018 (août)** | Agadir, Maroc  
+    *Colloque international : « L’amazighité à l’ère du numérique »* **Communication :** « L’amazighité en Tunisie à l’ère du numérique »
+
+* **2016 (oct.)** | Tunis, Tunisie  
+    *Colloque international : « La violence verbale : approches discursives »* **Communication :** « Violences verbales et pratiques discursives des jeunes tunisiens sur Facebook »
+
+* **2016 (avril)** | Tunis, Tunisie  
+    *2ème congrès international de français : « (Re) penser le féminin »* **Communication :** « Représentation de la femme dans le discours des philosophes : Nietzsche comme exemple »
+
+* **2014 (déc.)** | Mostaganem, Algérie  
+    *Colloque international : « La cyberlougha : plurilinguisme, contact des langues et nouvelles formes d’expression linguistiques au Maghreb »* **Communication :** « La communication électronique : étude sociolinguistique du français des jeunes Tunisiens sur Facebook »  
+    [🔗 Voir le programme](Https://slideum.com/doc/4655872/programmecolloque_cyberlougha)
 
 ---
 
@@ -76,4 +94,3 @@ Contact : *ameni.tlili [AT] cnrs.fr*
 
 * **Coordination** : Responsable qualité et enseignement numérique (Blackboard) à l'Université PNU (2022-2024).
 * **Profil ENS Lyon** : [Page chercheur ICAR](http://www.icar.cnrs.fr/membre/atlili/)
-* **Langues** : Français (C2), Arabe (C2), Anglais (B2/C1).
