@@ -66,14 +66,16 @@ Contact : *ameni.tlili [AT] cnrs.fr*
 
 * À paraître
 **« Prompt Engineering en linguistique appliquée »** *Revue Études de Linguistique Appliquée (Éla)*, Dossier : "Naturel et artificiel en linguistique appliquée : Une époque de paradoxe". ISSN : 0071-190X.
-
+  
+* À paraître
 **« Impact de la révolution de 2011 sur le dire-écrire des jeunes Tunisiens sur Facebook »** In *Les discours des mouvements contestataires à l'ère des réseaux sociaux numériques*, éd. Lambert-Lucas, Limoges, France.  
   [🔗 Voir la page de couverture](http://www.lambert-lucas.com/livre/les-discours-des-mouvements-contestataires/)
 
 * 2024
 **« Analyse lexicométrique du dire-écrire des jeunes Tunisiens sur Facebook avant, pendant et après la Révolution de 2011 »** *Mots comptés, textes déchiffrés*, vol. 1, PUL, Presses Universitaires de Louvain, Actes du colloque JADT 2024, Bruxelles.  
   [🔗 Lire la table des matières](https://pul.uclouvain.be/book/?GCOI=29303100759970)
-
+  
+* 2024
 **« Hybridité du français des jeunes Tunisiens sur Facebook »** In *Studi Africanistici Quaderni di Studi Berberi e Libico-berberi*, sous la direction de Anna Maria Di Tolla.  
   [🔗 Lire l'article](http://www.fedoabooks.unina.it/index.php/fedoapress/catalog/book/530)
 
