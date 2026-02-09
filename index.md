@@ -66,4 +66,4 @@
 * **« Impact de la révolution de 2011 sur le dire-écrire des jeunes Tunisiens sur Facebook »** In *Les discours des mouvements contestataires à l'ère des réseaux sociaux numériques*, éd. Lambert-Lucas, Limoges, France. [🔗 Couverture](http://www.lambert-lucas.com/livre/les-discours-des-mouvements-contestataires/)
 
 ### 2024
-* **« Analyse lexicométrique du dire-écrire des jeunes Tunisiens sur Facebook avant, pendant et après la Révolution de 2011 »** *Mots comptés, textes déchiffrés*, vol. 1, PUL, Presses Universitaires de Louvain, Actes du colloque JADT 2024, Bruxelles. [🔗 Table des matières](
+* **« Analyse lexicométrique du dire-écrire des jeunes Tunisiens sur Facebook avant, pendant et après la Révolution de 2011 »** *Mots comptés, textes déchiffrés*, vol. 1, PUL, Presses Universitaires de Louvain, Actes du colloque JADT 2024, Bruxelles. [🔗 Table des matières](https://pul.uclouvain.be/book/?GCOI=29303100840490).
