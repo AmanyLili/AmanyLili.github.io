@@ -67,3 +67,7 @@
 
 ### 2024
 * **« Analyse lexicométrique du dire-écrire des jeunes Tunisiens sur Facebook avant, pendant et après la Révolution de 2011 »** *Mots comptés, textes déchiffrés*, vol. 1, PUL, Presses Universitaires de Louvain, Actes du colloque JADT 2024, Bruxelles. [🔗 Table des matières](https://pul.uclouvain.be/book/?GCOI=29303100840490).
+* **« Hybridité du français des jeunes Tunisiens sur Facebook »** *Studi Africanistici Quaderni di Studi Berberi e Libico-berberi*, sous la direction de Anna Maria Di Tolla. [🔗 Lire l'article](http://www.fedoabooks.unina.it/index.php/fedoapress/catalog/book/530)
+
+### 2022
+* **« Le français en Tunisie. Une enquête d’ethnographie linguistique sur le dire-écrire des jeunes Tunisiens sur Facebook »** Tlili et Laroussi, *Le français au Maghreb et au Moyen-Orient : contextes, histoires, pratiques, recherches*, Recherches et Applications (R&A) n° 71, coordination : Fatima Chnane-Davin et Abdelouahad Mabrour. [🔗 Table des matières](https://www.fdlm.org/supplements/recherches-et-applications/recherches-et-applications-n71-janvier-2022/)
