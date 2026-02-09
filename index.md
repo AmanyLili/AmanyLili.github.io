@@ -18,7 +18,6 @@
 
 * **Édition de corpus numérique** : Structuration, traitement et valorisation de données textuelles.
 * **Linguistique & TAL (NLP)** : Analyse du discours et traitement automatique des langues.
-* **Deep Learning** : Application des modèles neuronaux aux textes.
 * **Statistiques textuelles** : Lexicométrie et analyse de données multidimensionnelles.
 
 ---
